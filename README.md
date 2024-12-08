@@ -108,17 +108,18 @@ Windrose
 
 
 ## 🖼️ Screenshots
-## ** Correlation Heatmap**
-![Description of Image](/home/nibruad/Documents/10 x acadamy/app/images/Screenshot from 2024-12-08 20-49-41.png)
 
-## **Time-series Analysis**
-![Description of Image](/home/nibruad/Documents/10 x acadamy/app/images/Screenshot from 2024-12-08 20-50-01.png)
+### **Correlation Heatmap**
+![Correlation Heatmap](images/Screenshot-from-2024-12-08-20-49-41.png)
 
-## **Wind and Solar Speed Analysis**
-![Description of Image](/home/nibruad/Documents/10 x acadamy/app/images/Screenshot from 2024-12-08 20-50-14.png)
+### **Time-series Analysis**
+![Time-series Analysis](images/Screenshot-from-2024-12-08-20-50-01.png)
 
-## **Outlier Detection**
-![Description of Image](app/images/Screenshot from 2024-12-08 20-50-46.png)
+### **Wind and Solar Speed Analysis**
+![Wind and Solar Speed Analysis](images/Screenshot-from-2024-12-08-20-50-14.png)
+
+### **Outlier Detection**
+![Outlier Detection](images/Screenshot-from-2024-12-08-20-50-46.png)
 
 
 ## 📋 How to Use
