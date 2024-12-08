@@ -85,3 +85,45 @@ This section provides instructions to set up your environment and run the solar 
 - If you encounter any issues during installation, make sure you have the correct versions of Python and pip installed.
 - If you have problems running the notebook, check that you have selected the correct Python interpreter and that all dependencies are installed correctly.
 - For specific errors or questions, please refer to the project documentation or open an issue on GitHub.
+
+
+## 🌞 Solar Radiation Data Analysis Dashboard 🌬️
+This project is a Streamlit-based interactive dashboard for analyzing solar radiation data from various regions. It provides multiple visualization options to help you understand and interpret the data effectively.
+
+✨ Features
+🔥 Correlation Heatmap: Visualize the correlation between different variables in the dataset.
+📈 Time-series Analysis: Analyze trends over time for selected variables.
+🌬️ Wind and Solar Speed Analysis: Understand the distribution of wind speed and direction, and analyze solar speed over time.
+🚨 Outlier Detection: Identify potential outliers in the data.
+
+## 🚀 Getting Started
+Prerequisites
+To run this project, you'll need to have Python installed along with the following libraries:
+
+Streamlit
+Pandas
+Matplotlib
+Seaborn
+Windrose
+
+
+## 🖼️ Screenshots
+## ** Correlation Heatmap**
+![Description of Image](/home/nibruad/Documents/10 x acadamy/app/images/Screenshot from 2024-12-08 20-49-41.png)
+
+## **Time-series Analysis**
+![Description of Image](/home/nibruad/Documents/10 x acadamy/app/images/Screenshot from 2024-12-08 20-50-01.png)
+
+## **Wind and Solar Speed Analysis**
+![Description of Image](/home/nibruad/Documents/10 x acadamy/app/images/Screenshot from 2024-12-08 20-50-14.png)
+
+## **Outlier Detection**
+![Description of Image](app/images/Screenshot from 2024-12-08 20-50-46.png)
+
+
+## 📋 How to Use
+
+1. Select the datasets you want to analyze from the sidebar.
+2. Choose the type of visualization you want to generate.
+3. Depending on the visualization type, select the appropriate variables.
+4. Explore the generated visualizations!
