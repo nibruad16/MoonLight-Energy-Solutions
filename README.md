@@ -20,7 +20,6 @@ The analysis utilizes three datasets containing solar radiation and meteorologic
 - **Sierra Leone:** `sierraleone-bumbuna.csv`
 - **Togo:** `togo-dapaong_qc.csv`
 
-
 ## 🔍 Project Description
 
 This project focuses on analyzing and cleaning solar radiation datasets collected from three West African countries: Benin, Sierra Leone, and Togo. The primary goal is to improve the quality and reliability of these datasets, enabling robust assessments of solar energy resources and their potential for various applications.
