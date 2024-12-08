@@ -85,9 +85,3 @@ This section provides instructions to set up your environment and run the solar 
 - If you encounter any issues during installation, make sure you have the correct versions of Python and pip installed.
 - If you have problems running the notebook, check that you have selected the correct Python interpreter and that all dependencies are installed correctly.
 - For specific errors or questions, please refer to the project documentation or open an issue on GitHub.
-
-<<<<<<< HEAD
-We hope this detailed guide helps you get started with the solar radiation data analysis project using VS Code!
-=======
-We hope this detailed guide helps you get started with the solar radiation data analysis project using VS Code!    
->>>>>>> 4e42d5ce6434addbb9c93c201d77a6dfb89c3981
