@@ -110,16 +110,16 @@ Windrose
 ## 🖼️ Screenshots
 
 ### **Correlation Heatmap**
-![Correlation Heatmap](images/Screenshot-from-2024-12-08-20-49-41.png)
+![Correlation Heatmap](https://github.com/nibruad16/MoonLight-Energy-Solutions/blob/main/app/images/Screenshot%20from%202024-12-08%2020-49-41.png)
 
 ### **Time-series Analysis**
-![Time-series Analysis](images/Screenshot-from-2024-12-08-20-50-01.png)
+![Time-series Analysis](https://github.com/nibruad16/MoonLight-Energy-Solutions/blob/main/app/images/Screenshot%20from%202024-12-08%2020-50-01.png)
 
 ### **Wind and Solar Speed Analysis**
-![Wind and Solar Speed Analysis](images/Screenshot-from-2024-12-08-20-50-14.png)
+![Wind and Solar Speed Analysis](https://github.com/nibruad16/MoonLight-Energy-Solutions/blob/main/app/images/Screenshot%20from%202024-12-08%2020-50-14.png)
 
 ### **Outlier Detection**
-![Outlier Detection](images/Screenshot-from-2024-12-08-20-50-46.png)
+![Outlier Detection](https://github.com/nibruad16/MoonLight-Energy-Solutions/blob/main/app/images/Screenshot%20from%202024-12-08%2020-50-46.png)
 
 
 ## 📋 How to Use
